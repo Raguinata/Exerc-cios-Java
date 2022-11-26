@@ -11,5 +11,8 @@ public class Char {
 
         valor = (char) (valor + 1);         // Compila!
         System.out.println(valor);
+
+        valor = (char) (valor - 7 );         // Compila!
+        System.out.println(valor);
     }
 }
