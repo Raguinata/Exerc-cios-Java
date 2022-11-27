@@ -12,5 +12,6 @@ public class Main {
         double total = valor1 + valor2;
 
         System.out.println(total);
+        System.out.println(pontoFlutuante);
     }
 }
